@@ -1,0 +1,16 @@
+{
+  "name": "coffeeTemplate",
+  "version": "0.0.1",
+  "description": "coffeeTemplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp default; node index.js",
+    "test": "gulp default; node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-csp": "^0.7.0",
+    "shortid": "^2.2.6"
+  }
+}
